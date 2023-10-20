@@ -15,3 +15,8 @@ This is a fun and interactive experience for both children and adults, bringing 
 The IoT device is currently based on the ESP32, utilizing the M5StickC Plus as the development module. The mobile app is developed using Flutter, enabling interaction with the device via Bluetooth or Wi-Fi.
 
 An AI service is responsible for generating the creatures, hosted in the cloud. It can directly produce firmware for download to IoT devices. Data recorded during gameplay is stored either on parents' smartphones or through direct internet connectivity.
+
+
+## Reference
+
+- [Make Pixel Art in Seconds with Machine Learning](https://inikolaeva.medium.com/make-pixel-art-in-seconds-with-machine-learning-e1b1974ba572)
