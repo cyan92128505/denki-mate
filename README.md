@@ -20,3 +20,4 @@ An AI service is responsible for generating the creatures, hosted in the cloud. 
 ## Reference
 
 - [Make Pixel Art in Seconds with Machine Learning](https://inikolaeva.medium.com/make-pixel-art-in-seconds-with-machine-learning-e1b1974ba572)
+- [M5Stackを使ってみる (MicroPython編)](https://itoi.jp/MicroPython.html)
